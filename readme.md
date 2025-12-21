@@ -38,5 +38,3 @@ This app is deployed via github actions on github pages for this repository.
 3. Redeploy backend https://github.com/ton-community/contract-verifier-backend
 
 ## License
-
-MIT
